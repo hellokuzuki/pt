@@ -14,4 +14,4 @@ before_script:
 - pwd
 
 script:
-  - node_modules/.bin/newman run test/my-collection.postman_collection.json -e test/postman-test.postman_environment.json
+  - node_modules/.bin/newman run tests/my-collection.postman_collection.json -e test/postman-test.postman_environment.json
