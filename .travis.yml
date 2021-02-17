@@ -9,7 +9,7 @@ before_script:
 
 - node --version
 - npm --version
-- node_moudles/.bin/newman --version
+- node_modules/.bin/newman --version
 
 script:
 - node_modules/.bin/newman run tests/my-collection.postman_collection.json -e test/postman-test.postman_environment.json
