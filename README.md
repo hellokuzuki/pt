@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/hellokuzuki/pt.svg?branch=master)](https://travis-ci.com/hellokuzuki/pt)
